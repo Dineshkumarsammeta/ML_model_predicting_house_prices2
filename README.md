@@ -62,7 +62,18 @@ The outcome was a scalable, ethical, and real-time system for UK housing market 
 - Identified **key growth zones** with up to **15% annual appreciation** potential.  
 - Reduced manual market analysis time by **30+ hours per analyst/month** through automation.  
 - Produced insights that informed **real estate investment & portfolio planning**.  
-- Developed a **scalable proof-of-concept**, adaptable to different housing markets in the UK.  
+- Developed a **scalable proof-of-concept**, adaptable to different housing markets in the UK.
+
+## 📈 Metrics Evidence
+
+Below is a demonstration of model performance recorded in [`metrics/metrics.csv`](metrics/metrics.csv):
+
+| Run Date   | Dataset       | Split     | Model          | R²   | RMSE     | n_train | n_test | Seed |
+|------------|----------------|-----------|----------------|------|----------|---------|--------|------|
+| 2025-09-25 | house_prices  | train/test | RandomForest     | 0.90 | 45000.5  | 20000   | 5000   | 42   |
+
+You can update this file over time with new runs to track improvements.  
+
 
 ---
 
