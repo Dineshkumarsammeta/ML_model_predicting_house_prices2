@@ -4,7 +4,7 @@
 *Machine Learning Model for Predicting House Prices in the UK*
 
 ## 📅 Project Timeline
-**Duration:** 10-Jan-2023 – 12-March-2023  
+**Duration:** 10-Jan-2023 – 12-March-2023 (Part-Time)
 **Location:** Master's in Advanced Computer Science, UK  
 **Employer Name:** Self-initiated Academic Project  
 **Reporting to:** Furqan Aziz  
