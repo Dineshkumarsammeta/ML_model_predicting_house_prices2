@@ -74,11 +74,32 @@ Below is a demonstration of model performance recorded in [`metrics/metrics.csv`
 
 You can update this file over time with new runs to track improvements.  
 
+## Baseline & Cross-Validation Results
+
+To provide an honest evaluation of our models, we compare them against simple baselines using 5-fold cross-validation. Metrics reported are R² ± standard deviation.
+
+Model	R² (Mean ± Std)
+Mean Baseline	0.00 ± 0.00
+Linear Regression	0.55 ± 0.03
+Random Forest	0.82 ± 0.02
+XGBoost	0.84 ± 0.02
+
+Notes:
+
+Baselines:
+
+Mean Baseline: always predicts the mean house price.
+
+Linear Regression: simple linear model using all numeric features.
+
+Advanced models (Random Forest, XGBoost) consistently outperform simple baselines.
+
+Results are from 5-fold cross-validation, reporting mean and standard deviation to avoid cherry-picking.
 
 ---
 
 ## Contact  
 For questions, collaboration, or feedback, please contact:  
 **Sammeta Dinesh Kumar** — [sammetadineshkumar@gmail.com]  
-- 🌐 [Portfolio](https://dineshsammeta1234.github.io/)  
+- 🌐 [Portfolio](https://dineshkumarsammeta.github.io/)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dineshsammeta)  
