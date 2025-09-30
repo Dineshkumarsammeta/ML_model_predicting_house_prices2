@@ -30,9 +30,11 @@ The outcome was a scalable, ethical, and real-time system for UK housing market 
 - Developed **dashboards and visual reports** to present regional insights.  
 
 ## 📂 Data Sources
-- **Source 1:** Housing Market Data – [data.gov Housing Datasets](https://catalog.data.gov/dataset/?tags=housing)  
-- **Source 2:** Kaggle Housing Market Datasets  
-- **Source 3:** Open APIs with geospatial and location-based features  
+
+HM Land Registry Price Paid Data – official property transaction prices across the UK. Licence: Open Government Licence v3.0
+Office for National Statistics (ONS) APIs – demographic and regional statistics. Licence: Open Government Licence v3.0
+UK Open APIs – geospatial and location-based features (schools, transport, amenities). [Licence: respective API terms]
+Kaggle Housing Datasets – for supplementary data and model benchmarking.
 
 ## 🛠️ Tools & Technologies
 - **Languages:** Python (Pandas, NumPy)  
