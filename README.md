@@ -66,7 +66,7 @@ Kaggle Housing Datasets – for supplementary data and model benchmarking.
 - Produced insights that informed **real estate investment & portfolio planning**.  
 - Developed a **scalable proof-of-concept**, adaptable to different housing markets in the UK.
 
-## 📈 Metrics Evidence
+## 📈 Metrics 
 
 Below is a demonstration of model performance recorded in [`metrics/metrics.csv`](metrics/metrics.csv):
 
