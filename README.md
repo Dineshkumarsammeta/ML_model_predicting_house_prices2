@@ -13,7 +13,7 @@
 ## 📌 Objective
 The objective of this project was to build a **data-driven house price forecasting system** that provides accurate property valuation insights across more than 15 UK locations.  
 
-By leveraging advanced ML models, data pipelines, and geospatial integration, the project aimed to help investors, estate agents, and mortgage brokers make informed decisions and identify high-growth investment zones.
+The project's goal is to assist mortgage brokers, estate agents, and investors in identifying high-growth investment zones and making well-informed judgements by utilising sophisticated machine learning models, data pipelines, and geospatial integration.
 
 ## 🏠 Background & Relevance
 Forecasting house prices plays a pivotal role in real estate, mortgage, and PropTech industries. This project combines housing market trends with geospatial intelligence—such as proximity to schools, transportation, and local amenities—and leverages advanced machine learning models like Random Forest and XGBoost. The goal is to enhance prediction accuracy while generating actionable insights for smarter decision-making
